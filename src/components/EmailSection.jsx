@@ -27,7 +27,7 @@ const EmailSection = () => {
         </p>
         <div className="socials flex flex-row gap-6">
           <a href="https://github.com/rahulvr29" target='_blank' className="w-7 font-semibold text-4xl text-white "><AiFillGithub/></a>
-          <a href="" target='_blank' className=" font-semibold text-4xl text-blue-700 "><AiFillLinkedin/></a>
+          <a href="https://www.linkedin.com/in/rahul-vr29" target='_blank' className=" font-semibold text-4xl text-blue-700 "><AiFillLinkedin/></a>
         </div> 
       </div>
       <div>
